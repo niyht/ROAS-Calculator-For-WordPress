@@ -32,8 +32,6 @@ return '
     <h4 id="baslik-tum-giderler">Tüm Giderler</h4>
     <label for="mal_gider">Mal Maliyetleri:</label>
     <input type="number" id="mal_gider"><br>
-    <label for="reklam_gider">Reklam Maliyeti:</label>
-    <input type="number" id="reklam_gider"><br>
     <label for="kredikarti_gider">Kredi Kartı Ücretleri:</label>
     <input type="number" id="kredikarti_gider"><br>
     <label for="kargo_gider">Kargo Ücreti:</label>
